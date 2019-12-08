@@ -43,11 +43,10 @@ Technical Trainings & Certifications
 ---
 
 |  Country |  Date| Course  
-|---|---|---|---|---|---|
-| Abuja Nigeria  | November 2019  | Solo Learn JavaScript Tutorial Course| 
-| Abuja Nigeria  | July 2019  | Google Cloud Professional on Pluralsight  | 
-| Abuja Nigeria  | Oct 2018  | Huawei Certified Network Associate Training - HCNA  | 
-| Abuja Nigeria  | Jan 2018  | Andela Learning Community - Android Track  | 
+| Abuja Nigeria  | November 2019  | Solo Learn JavaScript Tutorial Course 
+| Abuja Nigeria  | July 2019  | Google Cloud Professional on Pluralsight
+| Abuja Nigeria  | Oct 2018  | Huawei Certified Network Associate Training - HCNA
+| Abuja Nigeria  | Jan 2018  | Andela Learning Community - Android Track
 
 Skills
 
